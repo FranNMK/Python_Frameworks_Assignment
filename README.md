@@ -15,7 +15,7 @@ The project uses the **CORD-19 metadata dataset** to:
 - 💡 Generate insights on COVID-19 research trends  
 
 The solution includes:
-1. **Python script (`analysis.py`)** → handles dataset loading, cleaning, analysis, and visualizations  
+1. **Python script (`assignment.py`)** → handles dataset loading, cleaning, analysis, and visualizations  
 2. **Streamlit app (`app.py`)** → provides an interactive dashboard  
 
 ---
@@ -47,8 +47,8 @@ The solution includes:
 
 ### 1️⃣ Clone the Repository (if using GitHub)
 ```bash
-git clone https://github.com/<your-username>/cord19-analysis.git
-cd cord19-analysis
+git clone https://github.com/FranNMK/Python_Frameworks_Assignment.git
+cd Python_Frameworks_Assignment
 ````
 
 ### 2️⃣ Install Dependencies
@@ -62,7 +62,7 @@ pip install pandas matplotlib seaborn streamlit wordcloud
 ### 3️⃣ Run the Python Script
 
 ```bash
-python analysis.py
+python assignment.py
 ```
 
 ### 4️⃣ Run the Streamlit App
@@ -91,13 +91,7 @@ streamlit run app.py
 * Abstract lengths vary widely, indicating differences in research reporting styles.
 * Dataset is useful for **text mining** and **research trend analysis**.
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots of your Streamlit app once it’s running — e.g., charts, dashboard preview)*
-
----
 
 ## 👨‍💻 Author
 
