@@ -97,10 +97,10 @@ streamlit run app.py
 
 **Francis Kienji (Frank MK)**
 
-* 🌐 [Portfolio Website](https://github.com/FranNMK)
+* 🌐 [Portfolio Website](https://frankonline.vercel.app/)
 * 🎥 [YouTube](https://shorturl.at/4Mx75)
 * 📱 [Instagram](https://www.instagram.com/frankmk2025)
-* 💼 [LinkedIn](#) *(optional)*
+* 💼 [LinkedIn](#) *(https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BnuYHJQPxQROrjxoyvhHU2Q%3D%3D)*
 
 ---
 
